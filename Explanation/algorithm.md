@@ -40,7 +40,8 @@
 مرزی با حاشیه کوچک ممکن است به‌خوبی داده‌های آموزشی را جدا کند، اما در داده‌های جدید (تست) خطا داشته باشد (بیش‌برازش).  
 اما مرزی با **حاشیه بزرگ** مقاوم‌تر است و **خطا را کاهش می‌دهد**.
 
-<img width="1368" height="298" alt="image" src="https://gist.github.com/user-attachments/assets/73b2af6a-5704-417a-99a9-f43fd23b0bf7" />
+<img width="1368" height="298" alt="image" src="https://github.com/user-attachments/assets/37fae803-8361-4432-942b-b6b9e17337ae" />
+
 
 
 ---
@@ -53,7 +54,7 @@
 
 > ✨ نام "ماشین بردار پشتیبان" از همین ویژگی گرفته شده است.
 
-<img width="466" height="297" alt="image" src="https://gist.github.com/user-attachments/assets/e0cea989-07aa-4d37-9016-7231f8a39ae9" />
+<img width="466" height="297" alt="image" src="https://github.com/user-attachments/assets/8b975824-5288-4415-88dd-30f3cdbf993f" />
 
 
 ---
@@ -91,7 +92,7 @@ $\[
 پس برای **بزرگ‌تر کردن حاشیه**، باید $\|\mathbf{w}\|$ را **کوچک‌تر** کرد.
 
 
-<img width="517" height="437" alt="image" src="https://gist.github.com/user-attachments/assets/492fc4cd-b6dd-46bc-ac27-11cb25acd388" />
+<img width="517" height="437" alt="image" src="https://github.com/user-attachments/assets/b021202d-de47-48db-87fc-79e3c2744684" />
 
 
 ---
@@ -169,9 +170,10 @@ $\[
 - اما ما این فضا را نمی‌بینیم — فقط نتیجه نهایی را در فضای اصلی می‌بینیم: یک **مرز منحنی دایره‌ای**!
 
 
-<img width="1002" height="324" alt="image" src="https://gist.github.com/user-attachments/assets/0cce2963-8aa4-4618-8107-6d38f99c8c21" />
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/43183d7e-3bac-4e7f-9b22-31cd597095d4" />
 
-<img width="998" height="323" alt="image" src="https://gist.github.com/user-attachments/assets/4bb63899-9b2c-4ca4-a972-e15e1202c826" />
+
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/2b842ce7-798d-4863-a76f-e53400306231" />
 
 
 ---
@@ -248,3 +250,4 @@ print("دقت:", accuracy_score(y_test, y_pred))
 | **C** | تعادل بین **حاشیه بزرگ** و **خطای کم** |
 | **γ** | کنترل **پیچیدگی** مرز در هسته RBF |
 | **نرمال‌سازی** | **ضروری** برای عملکرد صحیح SVM |
+
